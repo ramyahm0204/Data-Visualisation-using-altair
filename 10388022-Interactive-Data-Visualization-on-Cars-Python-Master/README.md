@@ -33,7 +33,6 @@ Long	Longitude
 Dimension	Length x Width
 Avg_MPG	Mean of City_MPG & Hwy_MPG
 
-GitHub Link -  https://github.com/sunmeet10/10506082.github.ioA2-Interactive-Data-Visualization-on-Cars-Python
 
 Tools for Visualization 
 
@@ -47,24 +46,17 @@ Each team member has contributes and fulfilled the following tasks.
 
 
 Poonam Dhoot (10399137) -------------------------------------------------------------------- 
+Ramya Hunasghatta M (10388022)--------------------------------------------------------------- 
+Sunmeet Thapar (10506082)-------------------------------------------------------------------
+Kriti Dhyani (10505759)-----------------------------------------------------------------------
+
+
 1.	Environment Set Setup (Installation Of Packages / Libraries)
 2.	Data Preprocessing (Data Cleaning , Shaping , Working With Pandas, Altair)
-3.	Interactive Dashboard With All Interactive Data Visualization
-4.	Report
-
-
-Sunmeet Thapar (10506082)-------------------------------------------------------------------
-1.	Data Preprocessing (Data Cleaning , Shaping)
-2.	Interactive Dashboard With All Interactive Data Visualization
-
-
-Ramya Hunasghatta M (10388022)--------------------------------------------------------------- 
-1.	Determining Initial Questions For Analysis
-
-
-Kriti Dhyani (10505759)-----------------------------------------------------------------------
-1.	Determining Initial Questions For Analysis
-2.	Getting Insights about the data and which attributes are related to each other
+3.	Determining Initial Questions For Analysis
+4.	Interactive Dashboard With All Interactive Data Visualization
+5.	Report
+6.	Getting Insights about the data and which attributes are related to each other
 
 Dataset Analysis:
 We have created a dashboard in Python that links all our visualizations and analysis.
